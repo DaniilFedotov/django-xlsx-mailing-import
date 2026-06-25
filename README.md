@@ -1,0 +1,1 @@
+# django-xlsx-mailing-import
